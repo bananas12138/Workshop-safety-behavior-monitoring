@@ -3,4 +3,5 @@
 <p>https://github.com/yurizzzzz/Helmet-Detection-YoloV5</p>
 <p>https://github.com/PeterH0323/Smart_Construction</p>
 <p>使用的数据集：https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset</p>
-<p>**开发环境：Python3.8.6**</p>
+<p>开发环境：Python3.8.6</p>
+<p>IDE:PyCharm 2024.3.4 (Community Edition) Build #PC-243.25659.43, built on February 27, 2025</p>
